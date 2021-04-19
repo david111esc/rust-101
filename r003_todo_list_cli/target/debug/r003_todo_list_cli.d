@@ -1,0 +1,1 @@
+D:\StudyingGroup\coding\rust\rust-101\r003_todo_list_cli\target\debug\r003_todo_list_cli.exe: D:\StudyingGroup\coding\rust\rust-101\r003_todo_list_cli\src\cli.rs D:\StudyingGroup\coding\rust\rust-101\r003_todo_list_cli\src\main.rs
